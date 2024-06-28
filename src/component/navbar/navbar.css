@@ -1,0 +1,27 @@
+.gpt3__navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 4.8rem 6rem;
+    font-weight: 500;
+}
+.gpt3__navbar-links,.gtp3__navbar-links_container{
+    display: flex;
+    gap: 3.6rem;
+    align-items: center;
+}
+.gpt3__navbar-links_logo img{
+    width: 6.4rem;
+}
+.signup{
+    font-size: 1.2rem;
+    background: #FF4820;
+    border: 0;
+    outline: none;
+    padding: 1rem 1.6rem 1.2rem 1.6rem;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 600;
+    cursor: pointer;
+} 
